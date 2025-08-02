@@ -3,10 +3,11 @@
   "packOptions": {
     "ignore": [
       {
-        "type": "file",
-        "value": ".eslintrc.js"
+        "value": ".eslintrc.js",
+        "type": "file"
       }
-    ]
+    ],
+    "include": []
   },
   "setting": {
     "bundle": false,
@@ -36,20 +37,24 @@
     "packNpmRelationList": [],
     "minifyWXSS": true,
     "showES6CompileOption": false,
-    "minifyWXML": true
+    "minifyWXML": true,
+    "compileWorklet": false,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "swc": false,
+    "disableSWC": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
   },
   "compileType": "miniprogram",
   "libVersion": "2.19.4",
-  "appid": "wxa7bb2f89f3b9bf03",
+  "appid": "YOUR_APPID",
   "projectname": "miniprogram-2",
-  "debugOptions": {
-    "hidedInDevtools": []
-  },
-  "scripts": {},
-  "staticServerOptions": {
-    "baseURL": "",
-    "servePath": ""
-  },
   "isGameTourist": false,
   "condition": {
     "search": {
@@ -70,5 +75,7 @@
     "miniprogram": {
       "list": []
     }
-  }
+  },
+  "simulatorPluginLibVersion": {},
+  "editorSetting": {}
 }

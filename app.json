@@ -46,7 +46,7 @@
         "pagePath": "pages/find/find",
         "iconPath": "images/icon_user.png",
         "selectedIconPath": "images/icon_user_HL.png",
-        "text": "xxx"
+        "text": "定位"
       }
     ]
   }
