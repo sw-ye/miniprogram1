@@ -1,5 +1,5 @@
 ![Java](https://img.shields.io/badge/Java-17-red)
-[![WeChat MiniProgram](https://img.shields.io/badge/WeChat_MiniProgram-最新版-green?logo=wechat)](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+[![WeChat MiniProgram](https://img.shields.io/badge/WeChat_MiniProgram-green?logo=wechat)](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 [![Vant Weapp](https://img.shields.io/badge/Vant_Weapp-1.10-blueviolet)](https://vant-contrib.gitee.io/vant-weapp/#/home)
 
